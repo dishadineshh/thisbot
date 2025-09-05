@@ -5,3 +5,8 @@ build/
 .env.*
 coverage/
 *.log
+node_modules/
+*.log
+*.xlsx
+*.docx
+*.pdf
